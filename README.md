@@ -49,5 +49,6 @@ The best accuracy was achieved by CNN using Momentum Optimizer and a learning ra
   
   **To-Do:**
  - Improve the accuracy if possible by collecting more data and applying various CNN architectures like VGG16,Le-Net5 etc.
+ Sure
   
 
