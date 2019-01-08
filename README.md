@@ -44,7 +44,7 @@ The best accuracy was achieved by CNN using Momentum Optimizer and a learning ra
 <p align="center">
   <br>
   <img align="center" src="https://github.com/sanghaisubham/Indian-Sign-Language/blob/master/momentum.png">
-    <br>  
+  <br>  
 </p>
   
   **To-Do:**
